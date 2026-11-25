@@ -1,0 +1,31 @@
+body {
+  margin: 40px auto;
+  max-width: 640px;
+  line-height: 1.4;
+  font-size: 18px;
+  font-family: "helvetica neue", sans-serif;
+  color: #222222;
+  background-color: #ebebeb;
+  padding: 0 10px;
+}
+
+.darkMode {
+  background-color: #222222;
+  color: #ebebeb;
+}
+
+#result {
+  font-family: inherit;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+a:link {
+  color: #3270f6;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #3270f6;
+  text-decoration: none;
+}
